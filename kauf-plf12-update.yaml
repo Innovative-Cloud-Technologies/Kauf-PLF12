@@ -1,6 +1,6 @@
 packages:
-  kauf.plf10-update: !include ../PLF10/kauf-plug-update.yaml
+  kauf.plf10-update: !include ../Kauf-PLF10/kauf-plug-update.yaml
   kauf.plf12-base:   !include kauf-plf12-base.yaml
 
 dashboard_import:
-  package_import_url: github://Innovative-Cloud-Technologies/PLF12/kauf-plf12.yaml
+  package_import_url: github://Innovative-Cloud-Technologies/Kauf-PLF12/kauf-plf12.yaml

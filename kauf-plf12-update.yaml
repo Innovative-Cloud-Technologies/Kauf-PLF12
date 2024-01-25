@@ -3,4 +3,4 @@ packages:
   kauf.plf12-base:   !include kauf-plf12-base.yaml
 
 dashboard_import:
-  package_import_url: github://KaufHA/PLF12/kauf-plf12.yaml
+  package_import_url: github://Innovative-Cloud-Technologies/PLF12/kauf-plf12.yaml

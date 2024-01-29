@@ -1,7 +1,7 @@
 # this file contains anything that needs to be changed for PLF12 relative to PLF10.
 
 substitutions:
-  project_name: Kauf.PLF12
+  project_name: ICT.PLF12
 
   # power monitoring configuration
   voltage_divider_val:  "2001"

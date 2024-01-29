@@ -1,3 +1,3 @@
 packages:
-  Kauf.PLF10: github://Innovative-Cloud-Technologies/Kauf-PLF10/kauf-plug-lite.yaml
-  Kauf.PLF12-Base: github://Innovative-Cloud-Technologies/Kauf-PLF12/kauf-plf12-base.yaml
+  ICT.PLF10: github://Innovative-Cloud-Technologies/Kauf-PLF10/kauf-plug-lite.yaml
+  ICT.PLF12-Base: github://Innovative-Cloud-Technologies/Kauf-PLF12/kauf-plf12-base.yaml

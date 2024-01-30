@@ -150,9 +150,6 @@ sensor:
         - multiply: 0.001  ## convert Wh to kWh
     unit_of_measurement: kWh
 
-  - platform: wifi_signal
-    name: WiFi Signal
-
 text_sensor:
   - platform: wifi_info
     ip_address:

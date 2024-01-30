@@ -40,7 +40,7 @@ esphome:
   friendly_name: $friendly_name
   project:
     name: "ICT.PLF12"
-    version: "1.1.0"
+    version: "1.1.3"
 
 esp8266:
   board: esp01_1m
@@ -54,7 +54,6 @@ wifi:
   ap:
 
 web_server:
-  include_internal: true
 
 captive_portal:
 logger:
@@ -91,6 +90,7 @@ switch:
 binary_sensor:
   - platform: gpio
     id: button
+    name: Button
     internal: True
     pin:
       number: $button_pin

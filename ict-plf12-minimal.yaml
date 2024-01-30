@@ -158,7 +158,7 @@ sensor:   # Power monitoring sensors output to Home Assistant
     unit_of_measurement: kWh
 
   - platform: wifi_signal
-    name: "WiFi Signal"
+    name: WiFi Signal
 
 text_sensor:
   - platform: wifi_info

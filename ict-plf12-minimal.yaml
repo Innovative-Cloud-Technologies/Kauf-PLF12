@@ -91,6 +91,7 @@ switch:
 binary_sensor:
   - platform: gpio
     id: button
+    internal: True
     pin:
       number: $button_pin
       inverted: true
